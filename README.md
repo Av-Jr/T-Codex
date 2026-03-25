@@ -1,4 +1,4 @@
-# T-Codex (PROJ_TRIUMPH)
+# Triumph-Archive
 
 T-Codex is a full-stack web application featuring a React-based frontend and an Express backend. The project is designed with a focus on cross-platform accessibility and secure data management.
 
